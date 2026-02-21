@@ -1,4 +1,4 @@
-# Datenschutu
+# Datenschutz
 
 - Bots Daten speichern
 
