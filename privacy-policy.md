@@ -10,7 +10,7 @@ Erkläre:
 
 - Welche Daten gespeichert werden (User-ID, Nachrichten-Logs etc.)
 
-- Warum sie gespeichert werden
+- Warum sie gespeichert werden : Um Bugs & Fehler zubeheben . ( Sie bleiben Privat und werden nicht preis gegeben im Internet )
 
 - Wie lange : Unbekannt & Wird nicht gesagt 
 
